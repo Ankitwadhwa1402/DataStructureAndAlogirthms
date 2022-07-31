@@ -1,0 +1,1 @@
+vector<vector<int>> v(N, vector<int>(M));
